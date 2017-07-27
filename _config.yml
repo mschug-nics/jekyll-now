@@ -19,9 +19,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: mschug@nicsroyals.com
-  facebook: https://www.facebook.com/northidahochristianschool/
+  facebook: northidahochristianschool
   flickr:
-  github: mschug-nics/mschug-nics.github.io
+  github: mschug-nics
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: mschug-nics.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
